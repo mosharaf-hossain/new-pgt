@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins','sans-serif' ;
+    
+}
+h1{
+    font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;}
+.name-highlight{
+    color: brown;
+} 
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    background-position: top;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: 0px;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#EC5196,#ED4B72);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.letest-work{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+.work-ex{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border: 0px;
+    background-position: left;
+}
+.work-ex img{
+    width: 100px;
+}
